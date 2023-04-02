@@ -1,7 +1,7 @@
 from data import Dataset, Labels
 from utils import evaluate
 import os, sys
-
+ 
 K = 5
 
 class KNN:
